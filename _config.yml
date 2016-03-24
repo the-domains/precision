@@ -1,0 +1,28 @@
+name: precision
+favicon: null
+layout_spectrum: 0.4436235735192895
+typography_spectrum: 0.5583898678887635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7157366946339607
+  lightness: 0.7431634850800037
+  saturation: 0.16983520425856113
+  rhythmicContrast: 0.24517268547788262
+purpose: []
